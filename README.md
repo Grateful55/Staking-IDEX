@@ -1,1 +1,1 @@
-# Stakeing-IDEX
+# Staking-IDEX
